@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vollstndigesamm01mngoog_0027.png"; bbox 0 0 2930 4963; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1333 1359 1487 1506">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1333 1359 1487 1506">
+     <span class='ocr_line' id='line_1_1' title="bbox 1333 1359 1487 1506; baseline -0.078 0"><span class='ocrx_word' id='word_1_1' title='bbox 1333 1359 1487 1506; x_wconf 89' lang='lat' dir='ltr'>A.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 261 1595 2542 1905">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 261 1595 2542 1905">
+     <span class='ocr_line' id='line_1_2' title="bbox 261 1595 2542 1760; baseline -0.001 -46"><span class='ocrx_word' id='word_1_2' title='bbox 261 1600 550 1714; x_wconf 84' lang='lat' dir='ltr'>Die</span> <span class='ocrx_word' id='word_1_3' title='bbox 653 1599 1597 1760; x_wconf 71' lang='lat' dir='ltr'>Konkordate</span> <span class='ocrx_word' id='word_1_4' title='bbox 1700 1597 1953 1712; x_wconf 83' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_5' title='bbox 2057 1595 2542 1715; x_wconf 57' lang='lat' dir='ltr'><strong>altem</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1225 1790 2501 1905; baseline 0.003 -5"><span class='ocrx_word' id='word_1_6' title='bbox 1225 1790 1623 1905; x_wconf 55' lang='lat' dir='ltr'>Zeia</span> <span class='ocrx_word' id='word_1_7' title='bbox 1752 1869 1829 1898; x_wconf 48' lang='lat'>2</span> <span class='ocrx_word' id='word_1_8' title='bbox 2435 1874 2501 1904; x_wconf 46' lang='grc' dir='ltr'><strong><em>μ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1167 2083 1663 2110">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1167 2083 1663 2110">
+     <span class='ocr_line' id='line_1_4' title="bbox 1167 2083 1663 2110; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1167 2083 1663 2110; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 441 2261 2413 2525">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 441 2261 2413 2525">
+     <span class='ocr_line' id='line_1_5' title="bbox 1337 2261 1462 2344; baseline 0.032 -4"><span class='ocrx_word' id='word_1_10' title='bbox 1337 2261 1462 2344; x_wconf 76' lang='grc' dir='ltr'>Δ..</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 441 2409 2413 2525; baseline 0.002 -27"><span class='ocrx_word' id='word_1_11' title='bbox 441 2409 626 2499; x_wconf 81' lang='lat' dir='ltr'>Die</span> <span class='ocrx_word' id='word_1_12' title='bbox 677 2409 1274 2505; x_wconf 80' lang='lat' dir='ltr'><strong>Konkordate·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1313 2413 1479 2503; x_wconf 85' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_14' title='bbox 1522 2413 1993 2503; x_wconf 79' lang='lat' dir='ltr'><strong>teutschen</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2032 2411 2413 2525; x_wconf 54' lang='lat' dir='ltr'><strong>Nation„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1085 2838 1759 2855">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1085 2838 1759 2855">
+     <span class='ocr_line' id='line_1_7' title="bbox 1085 2838 1759 2855; baseline 0.001 -1"><span class='ocrx_word' id='word_1_16' title='bbox 1085 2838 1759 2855; x_wconf 57' lang='lat' dir='ltr'>ffl</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
